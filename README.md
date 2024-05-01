@@ -6,4 +6,5 @@ Title and detail along with "X" button to dismiss the view is shown in the detai
 
 
 Language Used : Swift
+
 Frameworks : SwiftUI
