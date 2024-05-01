@@ -8,3 +8,6 @@ Title and detail along with "X" button to dismiss the view is shown in the detai
 Language Used : Swift
 
 Frameworks : SwiftUI
+
+
+![Demo](https://github.com/Adabala-Praveena/DataPicker/assets/96720074/2669d877-5af0-48fa-adf0-5f32151c99ec)
